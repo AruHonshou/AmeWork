@@ -19,7 +19,7 @@ dependencies = [
   "keyring>=25.6,<27",
   "python-multipart>=0.0.20,<1",
   "pypdf>=5,<7",
-  "reportlab>=4.2,<5",
+  "reportlab>=4.2,<6",
   "uvicorn[standard]>=0.34,<1",
 ]
 
